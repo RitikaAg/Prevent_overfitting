@@ -1,4 +1,4 @@
-# kaggle-Don-t-Overfit-II
+Prevent_overfitting
 This is a solution to kaggle's Don't OverfitII competition ,which acheived a score of .872.
 this is the link to the competition:
 https://www.kaggle.com/c/dont-overfit-ii
